@@ -1,7 +1,7 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="light">
-      <b-navbar-brand href="#">
+    <b-navbar toggleable="lg" type="light" variant="light">
+      <b-navbar-brand>
         <router-link class="navbar-brand" to="/home"
           >Beartooth Hiking Company</router-link
         >
