@@ -1,6 +1,6 @@
 <template>
   <b-container class="bv-example-row bv-example-row-flex-cols">
-    <br>
+    <br />
     <b-row>
       <b-jumbotron
         header="Beartooth Hiking Company (BHC)"
@@ -40,7 +40,7 @@
         <p>Great trips to enjoy with friends.</p>
       </b-col>
     </b-row>
-    <br>
+    <br />
     <b-row align-h="end">
       <b-col cols="2" align-self="end">
         <b-button
@@ -51,7 +51,7 @@
         >
       </b-col>
     </b-row>
-    <br>
+    <br />
     <b-row>
       <b-col>
         <ul class="pager">
@@ -62,7 +62,7 @@
         </ul>
       </b-col>
     </b-row>
-    <br>
+    <br />
     <b-row>
       <b-col>
         <p class="text-right">Created by: Manuel E. Santiago Laboy</p>
