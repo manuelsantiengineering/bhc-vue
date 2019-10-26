@@ -1,12 +1,11 @@
 <template>
   <div id="app">
     <HeaderBar />
-    <div class="main-section columns">
-      <!--      <NavBar />-->
+    <b-container>
       <main class="column">
         <router-view />
       </main>
-    </div>
+    </b-container>
   </div>
 </template>
 
